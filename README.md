@@ -6,7 +6,7 @@ Soy estudiante de programación/ingeniería de sistemas
 
 - JavaScript
 - Python
-- Git
+
 [Mi Linkedin](https://github.com)
 <img src="https://raw.githubusercontent.com/teresameza/teresameza/refs/heads/main/foto.jfif" width="300">
 # 💫 About Me:
