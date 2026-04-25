@@ -9,4 +9,4 @@ Soy estudiante de programación/ingeniería de sistemas/etc...
 - Python
 - Git
 [Mi Linkedin](https://github.com)
-![Mi Linkedin](https://raw.githubusercontent.com/teresameza/teresameza/refs/heads/main/foto.jfif)
+<img src="https://raw.githubusercontent.com/teresameza/teresameza/refs/heads/main/foto.jfif" width="300">
