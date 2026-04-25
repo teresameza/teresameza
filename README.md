@@ -1,5 +1,4 @@
 
-# Hola 👋
 
 Soy estudiante de programación/ingeniería de sistemas/etc...
 
