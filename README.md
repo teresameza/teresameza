@@ -1,6 +1,6 @@
+# Teresa Tatiana Meza Gutierrez 
 
-
-Soy estudiante de programación/ingeniería de sistemas/etc...
+Soy estudiante de programación/ingeniería de sistemas
 
 ## Tecnologías que estoy aprendiendo
 
